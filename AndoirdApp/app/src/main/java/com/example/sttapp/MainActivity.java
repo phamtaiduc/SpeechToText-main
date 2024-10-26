@@ -6,7 +6,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-
+import retrofit2.Call;
+import retrofit2.http.POST;
+import retrofit2.http.Query;
 public class MainActivity extends AppCompatActivity {
 
     @Override

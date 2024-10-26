@@ -25,7 +25,9 @@ import androidx.fragment.app.Fragment;
 import java.util.ArrayList;
 import java.util.Locale;
 
-
+import retrofit2.Call;
+import retrofit2.http.POST;
+import retrofit2.http.Query;
 public class HomeFragment extends Fragment {
 
     private SpeechRecognizer speechRecognizer;
