@@ -14,7 +14,7 @@ import retrofit2.Response;
 
 public class DashboardFragment extends Fragment {
 
-    private static final String API_KEY = "YOUR_API_KEY"; // Thay YOUR_API_KEY bằng API key của bạn
+    private static final String API_KEY = "fdfc9bc3b4mshb42b39aff7e97f7p17803cjsn3b3a98357e6c"; // Thay YOUR_API_KEY bằng API key của bạn
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
